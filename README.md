@@ -1,5 +1,8 @@
 ## Hi there 👋 안녕하시오 👋
 
+Computer Science and Engineering
+---
+
 - 닭갈비 lover :)
 - love to play🎮 game, love to create🖥️ game
   - S점멸 user
