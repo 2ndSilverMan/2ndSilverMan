@@ -6,6 +6,8 @@
 - Korean, English
 
 ---
+### 3줄 요약 / TL;DR
+
 - 닭갈비 lover :)
 - love to play🎮 game, love to create🖥️ game
   - S점멸 user
