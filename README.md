@@ -1,9 +1,12 @@
 ## Hi there 👋
+## 안녕하시오 👋
 
 - 닭갈비 lover :)
-- S점멸 쓰는 사람
 - love to play game, love to create game
-- 
+- S점멸 user
+- Hearthstone 드루 1900승 user
+- I am Korean.
+- 나는 미국인이다.
 
 <!--
 **2ndSilverMan/2ndSilverMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
