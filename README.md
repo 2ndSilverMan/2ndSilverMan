@@ -14,3 +14,6 @@
  - LOL `S Flash`
  - Hearthstone `1900+ Win Druid`
  - R6 `LMG Main`
+
+> [!NOTE]
+> 환영합니다! 이곳은 S점멸을 사용하는 게이머의 프로필입니다.
