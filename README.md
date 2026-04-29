@@ -1,4 +1,4 @@
-## Hi there 👋 안녕하시오 👋
+## Hi there 👋 안녕하슈 👋
 
 ### Computer Science and Engineering
 - python, C++, Java
