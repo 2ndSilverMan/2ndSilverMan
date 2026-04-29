@@ -1,10 +1,10 @@
 ## Hi there 👋 안녕하슈 👋
 
-> ## Computer Science and Engineering
+> ### Computer Science and Engineering
  - ```python``` | ```C++``` | ```Java```
  - CS Undergraduate
 
-> ## Profile
+> ### Profile
  - 닭갈비 lover :)
  - 미국인 / Korean
  - Languages: ```Korean``` | ```English``` | ```Japanese```
