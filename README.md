@@ -3,15 +3,17 @@
 ### Computer Science and Engineering
 - python, C++, Java
 
-- Korean, English
+- Korean, English, Japanese
 
 ---
 ### 3줄 요약 / TL;DR
 
 - 닭갈비 lover :)
-- love to play🎮 game, love to create🖥️ game
-  - S점멸 user
-  - Hearthstone🪨 드루 1900승 user
+- love to play game🎮, love to create game🖥️
+  - Pokemon ```trainer from the Sinnoh region```
+  - LOL ```S Flash```
+  - Hearthstone ```1900+ Win Druid```
+  - R6 ```LMG Main```
 - *I am Korean.*
 - *나는 미국인이다.*
 
