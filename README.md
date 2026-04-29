@@ -1,11 +1,12 @@
-## Hi there 👋 안녕하슈 👋
+# Hi there 👋 안녕하슈 👋
 
+## Skills
 > ### Computer Science and Engineering
- - `python` | `C++` | `Java`
- - CS Undergraduate
+> - `python` | `C++` | `Java`
+> - CS Undergraduate
 
-> ### Profile
- - 닭갈비 lover :)
+## Profile
+ - `닭갈비` lover :)
  - 미국인 / Korean
  - Languages: `Korean` | `English` | `Japanese`
  - love to play game🎮, love to create game🖥️
