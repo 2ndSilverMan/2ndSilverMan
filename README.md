@@ -1,5 +1,5 @@
 # 두번째 은인 | 2ndSilverMan
-> 정보는 찾는 이가 많을수록 그 가치를 발하고, 지식은 아는 이가 많을수록 그 가치를 발한다.
+> 정보는 찾는 이가 많을수록 그 가치를 발하고, 지식은 아는 이가 많을수록 그 가치를 발한다.  
 > As seeking gives information its value, sharing gives knowledge its life.
 
 ## Skills
