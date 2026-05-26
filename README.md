@@ -1,4 +1,4 @@
-# 은박사 | 두번째 은인 | 2ndSilverMan
+# 두번째 은인 | 2ndSilverMan
 > 정보는 찾는 이가 많을수록 그 가치를 발하고, 지식은 아는 이가 많을수록 그 가치를 발한다.
 > 
 
@@ -8,7 +8,7 @@
 > - CS Undergraduate
 
 ## Profile
- - `닭갈비` lover :)
+ - `닭갈비`|`김치찜`|`감자튀김` lover :)
  - 미국인 / Korean
  - Languages: `Korean` | `English` | `Japanese`
  - love to play game🎮, love to create game🖥️
